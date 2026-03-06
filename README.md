@@ -1,4 +1,4 @@
-LOCAL
+REMOTE
 
 # merge-conflict-practice
 
